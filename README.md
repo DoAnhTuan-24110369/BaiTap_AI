@@ -49,34 +49,34 @@ Chương trình triển khai **9 thuật toán tìm kiếm**, chia thành 2 nhó
 ## 🎬 Demo
 
 ### Generate Map — Tạo bản đồ ngẫu nhiên
-![Generate Map](images/Generate%20Map.gif)
+![Generate Map](cleaning-robot/images/Generate%20Map.gif)
 
 ### BFS 1 — Breadth-First Search (Cách tiếp cận 1)
-![BFS 1](images/BFS1.gif)
+![BFS 1](cleaning-robot/images/BFS1.gif)
 
 ### BFS 2 — Breadth-First Search (Cách tiếp cận 2)
-![BFS 2](images/BFS2.gif)
+![BFS 2](cleaning-robot/images/BFS2.gif)
 
 ### DFS 1 — Depth-First Search (Cách tiếp cận 1)
-![DFS 1](images/DFS1.gif)
+![DFS 1](cleaning-robot/images/DFS1.gif)
 
 ### DFS 2 — Depth-First Search (Cách tiếp cận 2)
-![DFS 2](images/DFS2.gif)
+![DFS 2](cleaning-robot/images/DFS2.gif)
 
 ### IDS 1 — Iterative Deepening Search (Cách tiếp cận 1)
-![IDS 1](images/IDS1.gif)
+![IDS 1](cleaning-robot/images/IDS1.gif)
 
 ### IDS 2 — Iterative Deepening Search (Cách tiếp cận 2)
-![IDS 2](images/IDS2.gif)
+![IDS 2](cleaning-robot/images/IDS2.gif)
 
 ### UCS — Uniform Cost Search
-![UCS](images/UCS.gif)
+![UCS](cleaning-robot/images/UCS.gif)
 
 ### Greedy Search
-![Greedy Search](images/GS.gif)
+![Greedy Search](cleaning-robot/images/GS.gif)
 
 ### A\* Search
-![A* Search](images/Asao.gif)
+![A* Search](cleaning-robot/images/Asao.gif)
 
 ---
 

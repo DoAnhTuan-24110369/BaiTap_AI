@@ -108,8 +108,9 @@ Giao diện được chia thành 3 khu vực:
 
 ```bash
 # Clone repository
-git clone <repo-url>
-cd <repo-folder>
+git clone https://github.com/DoAnhTuan-24110369/BaiTap_AI.git
+cd BaiTap_AI
+cd cleaning-robot
 ```
 
 ### Chạy chương trình
@@ -161,10 +162,9 @@ Trạng thái là một **ma trận 2D** (list of lists) với các giá trị `
 
 | Thuật toán | g(n) | h(n) |
 |-----------|------|------|
-| BFS / DFS / IDS | Độ sâu node | — |
-| UCS | Tổng số ô bụi tích lũy dọc đường đi | — |
-| Greedy | — | Số bụi hiện tại |
-| A\* | Tổng số ô bụi tích lũy | Manhattan đến bụi gần nhất + (số bụi − 1) |
+| UCS | Số lượng bụi còn lại | — |
+| Greedy | — | Số lượng bụi còn lại |
+| A\* | Số lượng bụi còn lại | Manhattan đến bụi gần nhất + (số bụi − 1) |
 
 ### Tạo bản đồ ngẫu nhiên
 Mỗi lần nhấn `Generate Map`:
@@ -173,7 +173,3 @@ Mỗi lần nhấn `Generate Map`:
 - **Robot** được đặt ngẫu nhiên tại 1 ô
 
 ---
-
-## 📚 Tham khảo
-
-- Russell, S., & Norvig, P. — *Artificial Intelligence: A Modern Approach* (4th Edition), Chapter 3: Solving Problems by Searching
